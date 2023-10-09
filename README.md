@@ -6,6 +6,8 @@ The Shakespearean/Medieval version of [Glowup Vibes](https://github.com/christin
 
 ![Thy Script Example](thyScriptCropped.png)
 
+(I used the Almendra font family)
+
 ## What does it do?
 
 It transpiles Shakespearean English into valid JavaScript.
