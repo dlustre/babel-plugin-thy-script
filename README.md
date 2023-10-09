@@ -4,6 +4,8 @@
 
 The Shakespearean/Medieval version of [Glowup Vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) by @christina-de-martinez
 
+![Thy Script Example](thyScriptCropped.png)
+
 ## What does it do?
 
 It transpiles Shakespearean English into valid JavaScript.
