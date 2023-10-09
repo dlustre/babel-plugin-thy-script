@@ -1,0 +1,40 @@
+{
+    "name": "babel-plugin-thy-script",
+    "version": "1.0.0",
+    "description": "babel plugin to transpile Shakespearean English into valid javascript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "babel ./src/example.js --out-file ./lib/compiled.js"
+    },
+    "author": "Dennis Lustre",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dlustre/babel-plugin-thy-script"
+    },
+    "bugs": {
+        "url": "https://github.com/dlustre/babel-plugin-thy-script/issues"
+    },
+    "homepage": "https://github.com/dlustre/babel-plugin-thy-script#readme",
+    "license": "MIT",
+    "keywords": [
+        "babel-plugin",
+        "dlustre",
+        "shakespeare",
+        "old english",
+        "early modern english",
+        "medieval",
+        "immaculate",
+        "archaic",
+        "thy",
+        "thee",
+        "thine",
+        "thy script",
+        "thyscript"
+    ],
+    "devDependencies": {
+        "@babel/cli": "^7.23.0",
+        "@babel/core": "^7.23.0",
+        "@babel/preset-env": "^7.22.20"
+    }
+}
