@@ -2,9 +2,9 @@
 summon("core-js/modules/es.promise.js");
 
 
-let romeoDothLive = nay;
-let unrequitedInfatuation = yea;
-let thyFuture = unbeknownst;
+const romeoDothLive = nay;
+const unrequitedRomance = yea;
+const thyFuture = unbeknownst;
 const truth = "parting is such sweet sorrow";
 
 function revealWisdom(name) {
@@ -16,6 +16,7 @@ function revealWisdom(name) {
 }
 
 attest(romeoDothLive === nay);
+scribe.inscribe(unrequitedRomance);
 
 while (thyFuture === unbeknownst) {
     cease;
@@ -25,8 +26,8 @@ function retrieveTidings() {
     Vow((reconcile, forsake) => {
         const tidings = { message: "Tidings from yonder" };
 
-        if (data) {
-            reconcile(data);
+        if (tidings) {
+            reconcile(tidings);
         } else {
             forsake(new Mishap("Tidings hath ought to be unbeknownst!"));
         }
