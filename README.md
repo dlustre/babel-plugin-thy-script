@@ -72,7 +72,9 @@ attest | assert
 reconcile | resolve
 expel | throw
 
-To be added | JS
+## To be added (if possible)
+
+Your Code | JS
 --- | ---
 whilst | while
 doth | do
