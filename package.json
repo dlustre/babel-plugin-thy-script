@@ -1,6 +1,6 @@
 {
     "name": "babel-plugin-thy-script",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "babel plugin to transpile Shakespearean English into valid javascript",
     "main": "index.js",
     "scripts": {
