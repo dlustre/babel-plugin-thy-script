@@ -4,13 +4,14 @@
 
 The Shakespearean/Medieval version of [✨Glowup Vibes✨](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) by @christina-de-martinez
 
-Big thanks to Christina for giving me the greenlight!
-
-Here's Christina's Instagram Video: https://www.instagram.com/reel/Cxvwz76vBus/
 
 ![Thy Script Example](thyScriptCropped.png)
 
-(The font family is [Almendra](https://fonts.google.com/specimen/Almendra))
+(I used the [Almendra](https://fonts.google.com/specimen/Almendra) font)
+
+Big thanks to Christina for giving me the greenlight!
+
+Here's Christina's Instagram Video: https://www.instagram.com/reel/Cxvwz76vBus/
 
 ## What does it do?
 
@@ -64,23 +65,23 @@ Your Code | JS
 unbeknownst | undefined
 forsake | reject
 naught | null
-bestow | return
+bestow("thingToReturn") | return("thingToReturn")
 yea | true
 nay | false
+cease | break
+reconcile | resolve
+summon | require
 scribe.mishap("message") | console.error("message")
 scribe.forewarn("message") | console.warn("message")
 scribe.tidings("message") | console.info("message")
 scribe.inscribe("message") | console.log("message")
 Mishap | Error
-cease | break
 Vow | Promise
-summon | require
 beckon | require
 attest | assert
-reconcile | resolve
 expel | throw
 
-## Terms I would want to add
+## Terms I *would* want to add
 
 Your Code | JS
 --- | ---
