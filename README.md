@@ -2,11 +2,15 @@
 
 ## Thy most belov'd plugin
 
-The Shakespearean/Medieval version of [Glowup Vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) by @christina-de-martinez
+The Shakespearean/Medieval version of [✨Glowup Vibes✨](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) by @christina-de-martinez
+
+Big thanks to Christina for giving me the greenlight!
+
+Here's Christina's Instagram Video: https://www.instagram.com/reel/Cxvwz76vBus/
 
 ![Thy Script Example](thyScriptCropped.png)
 
-(I used the Almendra font family)
+(The font family is [Almendra](https://fonts.google.com/specimen/Almendra))
 
 ## What does it do?
 
@@ -39,7 +43,7 @@ To set up babel, create a `babel.config.json` file and add the following to it:
             }
         ]
     ],
-    "plugins": ["babel-plugin-glowup-vibes"]
+    "plugins": ["babel-plugin-thy-script"]
 }
 ```
 
@@ -93,7 +97,7 @@ If it was possible I would add these :P
 
 ## Contributing
 
-Bring forth PRs if you thou hath good additions.
+I ask thee to bring forth PRs ✍️
 
 If you want to contribute, but you don't know where to start, that's great! Watch this YouTube video to learn more about Babel plugins: <https://www.youtube.com/watch?v=aK6n0pYcOe8>
 
@@ -103,7 +107,7 @@ When you submit a PR, don't forget to update the table in the README along with 
 
 ## Does this exist in (insert coding language)?
 
-Alas, a plugin such as this for another language is unbeknownst to me.
+Alas, there is none yet!
 
 ## License
 
