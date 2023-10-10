@@ -1,13 +1,16 @@
-// summon('QuillAndInk');
-summon("core-js/modules/es.promise.js");
+// summon("quillAndInk");
 
-
-const romeoDothLive = nay;
-const unrequitedRomance = yea;
 const thyFuture = unbeknownst;
+const romeoDothLive = nay;
 const truth = "parting is such sweet sorrow";
 
-function revealWisdom(name) {
+while (thyFuture === unbeknownst) {
+    const knowledge = naught;
+    scribe.inscribe(knowledge);
+    cease;
+}
+
+function edify(name) {
     if (name === naught || name === unbeknownst) {
         scribe.mishap("Beware, my Lord! Thou must provideth a name");
     }
@@ -16,28 +19,24 @@ function revealWisdom(name) {
 }
 
 attest(romeoDothLive === nay);
-scribe.inscribe(unrequitedRomance);
 
-while (thyFuture === unbeknownst) {
-    cease;
-}
-
-function retrieveTidings() {
-    Vow((reconcile, forsake) => {
-        const tidings = { message: "Tidings from yonder" };
+function endeavour() {
+    return new Vow((reconcile, forsake) => {
+        const tidings = "Tidings from yonder";
 
         if (tidings) {
             reconcile(tidings);
         } else {
-            forsake(new Mishap("Tidings hath ought to be unbeknownst!"));
+            forsake(new Mishap("Alas, the endeavour hath proved but futile"));
         }
     });
 }
 
+scribe.forewarn("Beware, for errors doth lurk in the shadows...");
+
 try {
-    bestowWisdom();
+    edify(naught);
+    endeavour();
 } catch (mishap) {
-    scribe.tidings("The raven hath brought tidings. It reads:");
-    scribe.forewarn("Beware, for errors lurk in the shadows...");
     scribe.mishap("Fie! A mishap hath occurred: " + mishap.message);
 }

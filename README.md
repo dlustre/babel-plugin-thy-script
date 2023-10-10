@@ -76,7 +76,7 @@ attest | assert
 reconcile | resolve
 expel | throw
 
-## To be added (if possible)
+## Terms I would want to add
 
 Your Code | JS
 --- | ---
@@ -89,7 +89,7 @@ endeavor | try
 otherwise | else
 entrap | catch
 
-(I have no idea if these ones are even possible but it would be cool)
+If it was possible I would add these :P
 
 ## Contributing
 

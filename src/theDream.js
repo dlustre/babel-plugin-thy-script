@@ -1,11 +1,11 @@
-// summon('QuillAndInk');
-summon("core-js/modules/es.promise.js");
+// Not possible with babel. But this is the dream
+
+summon("quillAndInk");
 
 unyielding truth = "parting is such sweet sorrow...";
 alloweth romeoDothLive = nay;
 alloweth unrequitedInfatuation = yea;
 alloweth thyFuture = unbeknownst;
-
 
 function revealWisdom(name) {
     perchance(name === naught || name === unbeknownst) {
@@ -17,7 +17,6 @@ function revealWisdom(name) {
 
 attest(romeoDothLive === nay);
 
-
 whilst(thyFuture === unbeknownst) {
     cease;
 }
@@ -25,7 +24,6 @@ whilst(thyFuture === unbeknownst) {
 function retrieveTidings() {
     Vow((reconcile, forsake) => {
         unyielding tidings = { message: "Tidings from yonder" };
-        // const tidings = { message: "Tidings from yonder" };
 
         perchance(data) {
             reconcile(data);
