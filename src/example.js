@@ -6,7 +6,7 @@ const truth = "parting is such sweet sorrow";
 
 while (thyFuture === unbeknownst) {
     const knowledge = naught;
-    scribe.inscribe(knowledge);
+    scribe.proclaim(knowledge);
     cease;
 }
 
@@ -38,5 +38,5 @@ try {
     edify(naught);
     endeavour();
 } catch (mishap) {
-    scribe.mishap("Fie! A mishap hath occurred: " + mishap.message);
+    scribe.mishap(`Fie! A mishap hath occurred: ${mishap.message}`);
 }

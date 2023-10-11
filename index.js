@@ -7,6 +7,7 @@ module.exports = function () {
         yea: "true",
         nay: "false",
         scribe: "console",
+        proclaim: "log",
         mishap: "error",
         cease: "break",
         forewarn: "warn",

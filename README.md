@@ -74,6 +74,7 @@ summon | require
 scribe.mishap("message") | console.error("message")
 scribe.forewarn("message") | console.warn("message")
 scribe.tidings("message") | console.info("message")
+scribe.proclaim("message") | console.log("message")
 scribe.inscribe("message") | console.log("message")
 Mishap | Error
 Vow | Promise
