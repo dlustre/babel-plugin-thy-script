@@ -11,7 +11,7 @@ The Shakespearean/Medieval version of [✨Glowup Vibes✨](https://github.com/ch
 
 Big thanks to Christina for giving me the greenlight!
 
-Here's Christina's Instagram Video: https://www.instagram.com/reel/Cxvwz76vBus/
+Check out Christina's Instagram Vid: https://www.instagram.com/reel/Cxvwz76vBus/
 
 ## What does it do?
 
